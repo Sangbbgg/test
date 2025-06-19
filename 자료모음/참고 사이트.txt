@@ -1,9 +1,0 @@
-SiteMap : https://karzin.tistory.com/186
-SiteMap : https://karzin.tistory.com/235
-
-
-
-
-
-아이콘 : https://www.flaticon.com/kr/icon-fonts-most-downloaded/2
-	  : https://www.flaticon.com/kr/search?author_id=1&style_id=7&type=standard&word=%EC%BB%B4%ED%93%A8%ED%84%B0
